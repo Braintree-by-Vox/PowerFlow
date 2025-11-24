@@ -47,9 +47,9 @@ It is sometimes necessary to add it in places other than the OnModify() or OnAft
 
 ## Troubleshooting
 
-### 6.1 Common errors
+### Common errors
 
-#### 6.1.1 Record type <name> is not supported by this workflow response.
+#### Record type <name> is not supported by this workflow response.
 This can occur when you have created an approval workflow but have not implemented status management code.
 ![alt text](./img/image-69.png)
 

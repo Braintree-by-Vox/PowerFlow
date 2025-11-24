@@ -2,6 +2,7 @@
 The PowerFlow extension for Microsoft Dynamics 365 Business Central allows you to save time setting up workflows and extend it into the PowerPlatform.
 
 The extension includes the following features:
+
 **Flexible Workflow Types**
 - Approval Workflows: Configure multi-level approval processes
 - Record Change Workflows: Monitor and control field value changes 

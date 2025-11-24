@@ -15,3 +15,5 @@ We will activate an evaluation license and send it to the email address you spec
 - Select the PowerFlow entry
 - Click Update License Key
 - Enter the key on the page that opens and click Ok. You should get a message that states “Thank you for registering”
+
+[**⬆️ Back to Top**](#activation) &nbsp;&nbsp;&nbsp;&nbsp; [**🏠 Home**](/PowerFlow)
